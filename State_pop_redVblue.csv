@@ -1,0 +1,52 @@
+State,2018 Population,abrv,red_blue,hot_cold,Rank_temp,partisan lean
+Alabama,4888949,AL,red,hot,7,-29.59438
+Alaska,738068,AK,red,cold,50,-14.62028
+Arizona,7123898,AZ,red,hot,10,-7.58754
+Arkansas,3020327,AR,red,hot,9,-31.83641
+California,39776830,CA,blue,hot,12,25.45492
+Colorado,5684203,CO,blue,cold,39,6.367356
+Connecticut,3588683,CT,blue,cold,29,12.13077
+Delaware,971180,DE,blue,mid,16,13.7246
+District of Columbia,703608,DC,blue,mid,,68.15865
+Florida,21312211,FL,red,hot,1,-7.603365
+Georgia,10545138,GA,red,hot,5,-7.432655
+Hawaii,1426393,HI,blue,mid,2,31.64859
+Idaho,1753860,ID,red,cold,40,-36.9668
+Illinois,12768320,IL,blue,cold,23,13.44461
+Indiana,6699629,IN,red,cold,25,-19.98048
+Iowa,3160553,IA,red,cold,36,-9.679443
+Kansas,2918515,KS,red,mid,19,-20.68411
+Kentucky,4472265,KY,red,mid,15,-27.10645
+Louisiana,4682509,LA,red,hot,3,-20.53777
+Maine,1341582,ME,purple,cold,48,4.045471
+Maryland,6079602,MD,blue,mid,20,25.89621
+Massachusetts,6895917,MA,blue,cold,35,32.63558
+Michigan,9991177,MI,purple,cold,40,-1.645566
+Minnesota,5628162,MN,purple,cold,47,1.930285
+Mississippi,2982785,MS,red,hot,6,-20.30344
+Missouri,6135888,MO,red,mid,18,-21.22918
+Montana,1062330,MT,red,cold,45,-19.98505
+Nebraska,1932549,NE,red,cold,30,-24.83943
+Nevada,3056824,NV,purple,mid,28,-2.54994
+New Hampshire,1350575,NH,purple,cold,42,0.3410335
+New Jersey,9032872,NJ,blue,cold,22,11.96593
+New Mexico,2090708,NM,blue,mid,21,7.024009
+New York,19862512,NY,blue,cold,37,19.95745
+North Carolina,10390149,NC,purple,mid,13,-4.803924
+North Dakota,755238,ND,red,cold,49,-37.24163
+Ohio,11694664,OH,red,cold,26,-12.35004
+Oklahoma,3940521,OK,red,hot,11,-37.20762
+Oregon,4199563,OR,blue,mid,33,10.5522
+Pennsylvania,12823989,PA,purple,cold,30,-2.898966
+Rhode Island,1061712,RI,blue,cold,27,24.01542
+South Carolina,5088916,SC,red,hot,8,-18.63975
+South Dakota,877790,SD,red,cold,38,-32.23668
+Tennessee,6782564,TN,red,mid,14,-29.41324
+Texas,28704330,TX,red,hot,4,-11.98431
+Utah,3159345,UT,red,cold,32,-26.3219
+Vermont,623960,VT,blue,cold,44,27.54904
+Virginia,8525660,VA,purple,cold,17,4.63189
+Washington,7530552,WA,blue,cold,34,12.43642
+West Virginia,1803077,WV,red,mid,23,-35.53008
+Wisconsin,5818049,WI,purple,cold,43,-4.120129
+Wyoming,573720,WY,red,cold,46,-49.73126
